@@ -1,7 +1,6 @@
-ame: Django-app workflow
+name: Django-app workflow
 
 on: [push]
-
 
 jobs:
   tests:
